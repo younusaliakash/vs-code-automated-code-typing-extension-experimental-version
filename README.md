@@ -1,4 +1,4 @@
-# auto-enter-press README
+# VS Code Automated Code Typing Extension Experimental Version README
 
 This is the README for your extension "auto-enter-press". After writing up a brief description, we recommend including the following sections.
 
